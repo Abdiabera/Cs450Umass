@@ -1,0 +1,28 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+This project was very interesting and I learned a lot. In this project, I modified j--.jj This allowed us to create the scanner
+and parser classes by program.According to the instructions, I started with the easy element of my project,
+which used to handle double basic types and double literals.After that, I inserted the "LONG" token into my
+reserved list.Then I updated line({type = type.LONG) also the same for DOUBLE. After I did that,
+now, the Javacc parser can handle the long basic types and others.
+Also, I added three other methods: interfaceMembedecl, interfacedeclaration,
+and interfacebody.Also in the type declaration method, I added Lookhead; this allowed us to recognize interface
+declarations or class declarations.Also I added if statement, forinitial() and forupdate(), and again I added
+"for" in the loop statement. I was making sure which token needs to be checked for each steps first then the rest.
+In general, this homework was very helpul to learn more about j--.jj how it works and how it handles the tokens.
+
+
+2. Did you receive help from anyone? List their names, status (classmate,
+   CS451/651 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

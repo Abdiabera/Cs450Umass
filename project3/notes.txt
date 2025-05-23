@@ -1,0 +1,37 @@
+
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+From this homework, I learned a lot, especially how to solve parsing problems. However, it has a lot of challenges to fix all of
+ the given problems. I added literals and basictype() methods and created a new class, JLiteralDouble.After that, I had to
+ update the seeBasic() and seeRefrence() functions to check for some errors. while creating double-type variables. Then I added
+ the handling assignment operator and conditionalOrExpression().This method is used to read conditionals and operations. I also
+ connected them by || and retuned JLogicalOrOp object; also for JconditionalExpression, which used to check the question token,
+ and if it was there,calls assignmentExpression(), and then creates a JconditionlExpession object. When determining whether a block
+ is an instance block or a static block, the parser checks for left curly brackets in the class body and verify
+  if a left curly bracket appears after the static token when a static block is encountered. JStaticInstanceBlock objects are
+  created in accordance with the block type encountered.Additionally, the project allows for flexibility in class initialization and
+   execution when loading classes, as well as handling static and instance blocks. Furthermore, the improvement in type-checking methods
+   prevents errors and improves the compiler's reliability by properly handling double-types.
+
+2. Did you receive help from anyone? List their names, status (classmate,
+   CS451/651 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
+
+
+
+
+
+        Cite
+
+My homework was based on what we learned in class, and I modified Parser.
+https://swamiiyer.net/cs451/course_info.html#cs_account
