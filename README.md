@@ -20,7 +20,7 @@ This course is an introduction to compiler organization and implementation, incl
 
 ## About Me
 
-I am currently a senior at UMass Boston, majoring in Computer Science. My academic interests include the theory and implementation of programming languages, distributed systems, and the design of secure, user-friendly web applications.  
+I am currently a graduate student at UMass Boston, majoring in Computer Science. My academic interests include the theory and implementation of programming languages, distributed systems, and the design of secure, user-friendly web applications.  
 Through my coursework and personal projects, I have developed skills in Python, Java, JavaScript, web frameworks, database systems, and cloud technologies. I enjoy tackling challenging problems and turning ideas into working software that can be used and improved by others.
 
 This portfolio highlights five key projects which demonstrate my growth as a developer and my ability to apply academic knowledge to real-world problems.
