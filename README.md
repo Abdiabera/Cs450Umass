@@ -8,7 +8,7 @@ This course is an introduction to compiler organization and implementation, incl
 ## Table of Contents
 
 1. [About Me](#about-me)
-2. [Project 1: MiniLang – High-Level Language Interpreter (CS450)](#project-1-minilang)
+2. [Project 1: MiniLang – High-Level 
 3. [Project 2: UMassBot – Campus Assistant Chatbot](#project-2-umassbot)
 4. [Project 3: BookShare – Peer-to-Peer Book Exchange Platform](#project-3-bookshare)
 5. [Project 4: DataVizGen – Automated Data Visualization Tool](#project-4-datavizgen)
